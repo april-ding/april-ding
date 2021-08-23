@@ -1,4 +1,5 @@
 - 👋 Hi, I'm April Ding
-- 👀 I'm a ex-designer, now front end developer!
+- 👀 I came from a design background
+- 🍕 Nowadays I work in tech as a Fullstack Developer. 
 
-See my work at https://aprilding.com
+See the fun work at https://aprilding.com
